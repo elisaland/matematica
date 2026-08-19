@@ -11,4 +11,13 @@ Regole fondamentali, principi di equivalenza e discussione delle soluzioni in un
 
 ---
 
-[⬅️ Torna alla Home Page principale](../../)
+### 🚀 Progetti e Approfondimenti
+
+#### Dagli Enti Primitivi alle Geometrie per descrivere l'Universo
+*Percorso interdisciplinare (Fisica / Matematica / Filosofia della Scienza) – Classe 1ª*
+
+<a href="enti-primitivi-geometrie-universo.pdf" style="background-color: #159957; color: white; padding: 10px 18px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block; margin-top: 8px;">📥 Scarica il Progetto in PDF</a>
+
+---
+
+[⬅️ Torna alla sezione Superiori](../) | [🏠 Torna alla Home](../../)
