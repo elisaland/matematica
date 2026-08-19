@@ -43,4 +43,20 @@ Quesiti ed esercizi svolti sulla circonferenza goniometrica, identità ed equazi
 
 ---
 
+## 🎲 Calcolo Combinatorio e Probabilità
+
+### 📄 Formulario: Calcolo Combinatorio
+Permutazioni, disposizioni, combinazioni (semplici e con ripetizione), coefficienti binomiali e binomio di Newton.
+
+<a href="formulario-calcolo-combinatorio.pdf" style="background-color: #159957; color: white; padding: 10px 18px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block; margin-top: 8px;">📥 Scarica il Formulario Calcolo Combinatorio (PDF)</a>
+
+---
+
+### 📄 Formulario: Calcolo delle Probabilità
+Probabilità classica, condizionata, formula di disintegrazione (probabilità totale), teorema di Bayes e schema delle prove ripetute di Bernoulli.
+
+<a href="formulario-probabilita.pdf" style="background-color: #159957; color: white; padding: 10px 18px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block; margin-top: 8px;">📥 Scarica il Formulario Probabilità (PDF)</a>
+
+---
+
 [⬅️ Torna alla sezione Superiori](../) | [🏠 Torna alla Home](../../)
