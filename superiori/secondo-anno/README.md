@@ -4,9 +4,13 @@ Benvenuto/a nella sezione dedicata al programma del secondo anno. Qui troverai f
 
 ---
 
-### 📄 Formulario: Sistemi Lineari e Radicali
-*Prossimamente online*
+## 📐 Geometria Analitica
+
+### 📄 Formulario: La Retta nel Piano Cartesiano
+Equazione in forma esplicita e implicita, coefficiente angolare, condizioni di parallelismo e perpendicolarità, retta per due punti, fascio di rette e distanza punto-retta.
+
+<a href="formulario-retta-piano-cartesiano.pdf" style="background-color: #159957; color: white; padding: 10px 18px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block; margin-top: 8px;">📥 Scarica il Formulario Retta (PDF)</a>
 
 ---
 
-[⬅️ Torna alla Home Page principale](../../)
+[⬅️ Torna alla sezione Superiori](../) | [🏠 Torna alla Home](../../)
