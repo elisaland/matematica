@@ -1,5 +1,5 @@
 title: Elisa Land - Matematica
 description: Appunti, formulari ed esercizi guidati
 theme: jekyll-theme-cayman
-baseurl: "/matematica"
-url: "https://elisaland.github.io"
+url: "https://matematica.elisa.land"
+baseurl: ""
