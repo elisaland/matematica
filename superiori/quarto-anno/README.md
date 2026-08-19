@@ -46,7 +46,7 @@ Quesiti ed esercizi svolti sulla circonferenza goniometrica, identità ed equazi
 ## 🎲 Calcolo Combinatorio e Probabilità
 
 ### 📄 Formulario: Calcolo Combinatorio
-Permutazioni, disposizioni, combinazioni (semplici e con ripetizione), coefficienti binomiali e binomio di Newton.
+Permutazioni, disposizioni, combinazioni (semplici e con ripetizione), coefficienti binomiali e teorema del binomio di Newton.
 
 <a href="formulario-calcolo-combinatorio.pdf" style="background-color: #159957; color: white; padding: 10px 18px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block; margin-top: 8px;">📥 Scarica il Formulario Calcolo Combinatorio (PDF)</a>
 
@@ -56,6 +56,15 @@ Permutazioni, disposizioni, combinazioni (semplici e con ripetizione), coefficie
 Probabilità classica, condizionata, formula di disintegrazione (probabilità totale), teorema di Bayes e schema delle prove ripetute di Bernoulli.
 
 <a href="formulario-probabilita.pdf" style="background-color: #159957; color: white; padding: 10px 18px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block; margin-top: 8px;">📥 Scarica il Formulario Probabilità (PDF)</a>
+
+---
+
+## 🧊 Geometria Euclidea nello Spazio
+
+### 📄 Formulario: Assiomi, Enti Fondamentali e Trasformazioni
+Postulati dello spazio, posizioni reciproche e perpendicolarità tra rette e piani, teorema delle tre perpendicolari, diedri, distanze e isometrie nello spazio.
+
+<a href="formulario-geometria-spazio-fondamenti.pdf" style="background-color: #159957; color: white; padding: 10px 18px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block; margin-top: 8px;">📥 Scarica il Formulario di Geometria nello Spazio (PDF)</a>
 
 ---
 
