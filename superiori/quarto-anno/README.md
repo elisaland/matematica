@@ -4,6 +4,8 @@ Benvenuto/a nella sezione dedicata al programma del quarto anno. Qui troverai fo
 
 ---
 
+## 📈 Esponenziali e Logaritmi
+
 ### 📄 Formulario: Equazioni Esponenziali
 Proprietà delle potenze e metodi risolutivi.
 
@@ -22,6 +24,22 @@ Definizioni, proprietà fondamentali dei logaritmi, condizioni di esistenza (C.E
 Esercizi misti, problemi applicativi e soluzioni guidate passo-passo per prepararsi alla verifica.
 
 <a href="simulazione-verifica-esponenziali-logaritmi.pdf" style="background-color: #159957; color: white; padding: 10px 18px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block; margin-top: 8px;">📥 Scarica la Simulazione con Soluzioni (PDF)</a>
+
+---
+
+## 📐 Goniometria e Trigonometria
+
+### 📄 Formulario: Funzioni Goniometriche
+Circonferenza goniometrica, valori notevoli, relazioni fondamentali e prime applicazioni ai triangoli rettangoli.
+
+<a href="formulario-funzioni-goniometriche.pdf" style="background-color: #159957; color: white; padding: 10px 18px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block; margin-top: 8px;">📥 Scarica il Formulario (PDF)</a>
+
+---
+
+### 📝 Simulazione di Verifica: Funzioni Goniometriche
+Quesiti ed esercizi svolti sulla circonferenza goniometrica, identità ed equazioni/disequazioni con soluzioni.
+
+<a href="simulazione-verifica-funzioni-goniometriche.pdf" style="background-color: #159957; color: white; padding: 10px 18px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block; margin-top: 8px;">📥 Scarica la Simulazione con Soluzioni (PDF)</a>
 
 ---
 
