@@ -64,7 +64,7 @@ Probabilità classica, condizionata, formula di disintegrazione (probabilità to
 ### 📄 Formulario: Assiomi, Enti Fondamentali e Trasformazioni
 Postulati dello spazio, posizioni reciproche e perpendicolarità tra rette e piani, teorema delle tre perpendicolari, diedri, distanze e isometrie nello spazio.
 
-<a href="formulario-geometria-spazio-fondamenti.pdf" style="background-color: #159957; color: white; padding: 10px 18px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block; margin-top: 8px;">📥 Scarica il Formulario di Geometria nello Spazio (PDF)</a>
+<a href="formulario-geometria-sintetica-spazio-fondamenti.pdf" style="background-color: #159957; color: white; padding: 10px 18px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block; margin-top: 8px;">📥 Scarica il Formulario di Geometria nello Spazio (PDF)</a>
 
 ---
 
