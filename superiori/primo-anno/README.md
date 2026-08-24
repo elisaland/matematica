@@ -4,6 +4,11 @@ Benvenuto/a nella sezione dedicata al programma del primo anno. Qui troverai for
 
 ---
 
+### 📄 Formulario: Teoria degli Insiemi
+Definizioni, modalità di rappresentazione, diagrammi di Eulero-Venn, operazioni insiemistiche, insieme delle parti e prodotto cartesiano.
+
+<a href="formulario-insiemi.pdf" style="background-color: #159957; color: white; padding: 10px 18px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block; margin-top: 8px;">📥 Scarica il Formulario Insiemi in PDF</a>
+
 ## 📐 Algebra e Basi
 
 ### 📄 Formulario: Equazioni Lineari
