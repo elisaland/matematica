@@ -9,6 +9,11 @@ Definizioni, modalità di rappresentazione, diagrammi di Eulero-Venn, operazioni
 
 <a href="formulario-insiemi.pdf" style="background-color: #159957; color: white; padding: 10px 18px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block; margin-top: 8px;">📥 Scarica il Formulario Insiemi in PDF</a>
 
+### 📝 Esercizi Svolti: Teoria degli Insiemi
+Foglio completo con esercizi e svolgimenti dettagliati su relazioni di appartenenza/inclusione, operazioni insiemistiche, diagrammi di Eulero-Venn, prodotto cartesiano e logica delle proposizioni.
+
+<a href="esercizi-svolti-insiemi.pdf" style="background-color: #0969da; color: white; padding: 10px 18px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block; margin-top: 8px;">📥 Scarica gli Esercizi Svolti in PDF</a>
+
 ## 📐 Algebra e Basi
 
 ### 📄 Formulario: Equazioni Lineari
