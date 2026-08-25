@@ -14,6 +14,11 @@ Foglio completo con esercizi e svolgimenti dettagliati su relazioni di appartene
 
 <a href="esercizi-svolti-insiemi.pdf" style="background-color: #0969da; color: white; padding: 10px 18px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block; margin-top: 8px;">📥 Scarica gli Esercizi Svolti in PDF</a>
 
+### 📝 Esercizi Svolti: Monomi e Polinomi
+Foglio completo in stile universitario con esercizi e svolgimenti dettagliati su operazioni tra monomi, grado, somme algebriche, prodotti notevoli (quadrati, cubi, somme per differenze), espressioni avanzate e applicazioni geometriche.
+
+<a href="esercizi-svolti-monomi-polinomi.pdf" style="background-color: #0969da; color: white; padding: 10px 18px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block; margin-top: 8px;">📥 Scarica gli Esercizi Svolti in PDF</a>
+
 ## 📐 Algebra e Basi
 
 ### 📄 Formulario: Equazioni Lineari
