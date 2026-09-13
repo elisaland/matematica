@@ -38,7 +38,7 @@ Regole fondamentali, principi di equivalenza e discussione delle soluzioni in un
 ### 🧩 Crucinumero: Risoluzione di Equazioni Lineari
 *Attività ludica e laboratoriale di accoglienza/ripasso: risolvi le equazioni di primo grado a mente o sul quaderno per completare lo schema a incrocio.*
 
-<a href="laboratorio-crucinumero-equazioni-lineari.pdf" style="background-color: #159957; color: white; padding: 10px 18px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block; margin-top: 8px;">📥 Scarica il Crucinumero (PDF)</a>
+<a href="laboratorio-crucinumero-equazioni-lineari.pdf" style="background-color: #bc4c00; color: white; padding: 10px 18px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block; margin-top: 8px;">📥 Scarica il Crucinumero (PDF)</a>
 
 ---
 
@@ -47,7 +47,7 @@ Regole fondamentali, principi di equivalenza e discussione delle soluzioni in un
 ### Dagli Enti Primitivi alle Geometrie per descrivere l'Universo
 *Percorso interdisciplinare (Fisica / Matematica / Filosofia della Scienza) – Classe 1ª*
 
-<a href="enti-primitivi-geometrie-universo.pdf" style="background-color: #159957; color: white; padding: 10px 18px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block; margin-top: 8px;">📥 Scarica il Progetto in PDF</a>
+<a href="enti-primitivi-geometrie-universo.pdf" style="background-color: #8250df; color: white; padding: 10px 18px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block; margin-top: 8px;">📥 Scarica il Progetto in PDF</a>
 
 ---
 
