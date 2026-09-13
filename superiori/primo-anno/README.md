@@ -17,7 +17,7 @@ Foglio completo con esercizi e svolgimenti dettagliati su relazioni di appartene
 ### 📘 Formulario: Monomi, Polinomi e Calcolo Letterale
 Guida teorico-pratica con definizioni formali, proprietà delle operazioni, tavola dei prodotti notevoli, algoritmo di divisione polinomiale con schema di Ruffini, Teorema del Resto e tecniche sistematiche di scomposizione in fattori.
 
-<a href="formulario-monomi-polinomi.pdf" style="background-color: #0969da; color: white; padding: 10px 18px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block; margin-top: 8px;">📥 Scarica il Formulario in PDF</a>
+<a href="formulario-monomi-polinomi.pdf" style="background-color: #159957; color: white; padding: 10px 18px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block; margin-top: 8px;">📥 Scarica il Formulario in PDF</a>
 
 ### 📝 Esercizi Svolti: Monomi e Polinomi
 Foglio completo in stile universitario con esercizi e svolgimenti dettagliati su operazioni tra monomi, grado, somme algebriche, prodotti notevoli (quadrati, cubi, somme per differenze), espressioni avanzate e applicazioni geometriche.
