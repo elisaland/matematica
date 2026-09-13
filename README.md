@@ -7,13 +7,13 @@ In questo spazio troverai formulari riassuntivi, schede teoriche, esercizi svolt
 ## 🏫 Scuole Superiori
 
 * 🔹 [**Primo Anno**](superiori/primo-anno/)  
-  *Insiemi, calcolo letterale, equazioni lineari, frazioni algebriche*
+  *Insiemi, calcolo letterale, equazioni lineari, frazioni algebriche e geometria euclidea nel piano*
 
 * 🔹 [**Secondo Anno**](superiori/secondo-anno/)  
-  *Sistemi lineari, radicali, piano cartesiano, retta e geometria euclidea nel piano*
-
+  *Disequazioni lineari, sistemi lineari, radicali, equazioni e disequazioni di secondo grado e di grado superiore al secondo, parabola e retta nel piano cartesiano*
+  
 * 🔹 [**Terzo Anno**](superiori/terzo-anno/)  
-  *Equazioni e disequazioni di secondo grado, coniche (parabola, circonferenza, ellisse, iperbole)*
+  *Equazioni e disequazioni irrazionali, circonferenza, ellisse, iperbole*
 
 * 🔹 [**Quarto Anno**](superiori/quarto-anno/)  
   *Goniometria, trigonometria, funzioni esponenziali e logaritmi, calcolo combinatorio, probabilità e geometria euclidea nello spazio*
