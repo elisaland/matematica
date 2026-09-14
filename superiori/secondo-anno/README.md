@@ -1,8 +1,10 @@
 # 📗 Secondo Anno - Scuole Superiori
 
-Benvenuto/a nella sezione dedicata al programma del secondo anno. Qui troverai formulari, riassunti ed esercizi svolti da consultare e scaricare.
+Benvenuto/a nella sezione dedicata al programma del secondo anno per **Matematica** e **Fisica**. Qui troverai formulari, schede di laboratorio ed eserciziari svolti da consultare e scaricare.
 
 ---
+
+# 📐 Matematica
 
 ## 🔢 Algebra: Disequazioni Lineari
 
@@ -38,6 +40,17 @@ Raccolta graduale di esercizi svolti e commentati: risoluzione di equazioni inco
 Equazione in forma esplicita e implicita, coefficiente angolare, condizioni di parallelismo e perpendicolarità, retta per due punti, fascio di rette e distanza punto-retta.
 
 <a href="formulario-retta-piano-cartesiano.pdf" style="background-color: #159957; color: white; padding: 10px 18px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block; margin-top: 8px;">📥 Scarica il Formulario Retta (PDF)</a>
+
+---
+
+# ⚡ Fisica
+
+## ⚙️ Meccanica: Dinamica Newtoniana
+
+### 📄 Formulario: I Principi della Dinamica e le Forze
+I tre principi di Newton (inerzia, proporzionalità, azione e reazione), sistemi di riferimento inerziali, diagramma di corpo libero, forze ordinarie (forza peso, reazione vincolare, tensione dei fili, forza elastica e attrito radente) e applicazioni al moto sul piano inclinato.
+
+<a href="formulario-principi-dinamica.pdf" style="background-color: #159957; color: white; padding: 10px 18px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block; margin-top: 8px;">📥 Scarica il Formulario Principi Dinamica (PDF)</a>
 
 ---
 
