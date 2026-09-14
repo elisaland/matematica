@@ -16,7 +16,7 @@ Sintesi teorica completa con equivalenze logiche fondamentali, analisi rigorosa 
 ### 📝 Esercizi svolti: Equazioni Irrazionali
 Raccolta di esercizi strutturati su radicali a indice dispari, equazioni in forma canonica $\sqrt{A(x)} = B(x)$ e confronto tra due radicali $\sqrt{A(x)} = \sqrt{B(x)}$, ideati per consolidare la corretta impostazione dei sistemi equivalenti. Esercizi completi su radicali multipli (somme e differenze con regola del trasporto), equazioni irrazionali fratte e risoluzione guidata mediante variabili ausiliarie (metodo di sostituzione).
 
-<a href="esercizi-svolti-equazioni-irrazionali.pdf" style="background-color: #0969da; color: white; padding: 10px 18px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block; margin-top: 8px;">📥 Scarica l'Eserciziario Base in PDF</a>
+<a href="esercizi-svolti-equazioni-irrazionali.pdf" style="background-color: #0969da; color: white; padding: 10px 18px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block; margin-top: 8px;">📥 Scarica gli esercizi in PDF</a>
 
 ---
 
