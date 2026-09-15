@@ -22,9 +22,9 @@ In questo spazio troverai formulari riassuntivi, guide teorico-metodologiche, sc
 * 🔸 [**Primo Anno**](fisica/superiori/primo-anno/)  
   *Grandezze fisiche, incertezze di misura, calcolo vettoriale, statica ed equilibrio dei corpi solidi.*
 * 🔸 [**Secondo Anno**](fisica/superiori/secondo-anno/)  
-  *Cinematica (1D e 2D), principi della dinamica, forze d'attrito, lavoro, potenza, energia e conservazione.*
+  *Cinematica unidimensionale, principi della dinamica, forze d'attrito, lavoro, potenza, energia e conservazione.*
 * 🔸 [**Terzo Anno**](fisica/superiori/terzo-anno/)  
-  *Quantità di moto, gravitazione universale, meccanica dei fluidi e termodinamica.*
+  *Cinrmatica bidimensionale, quantità di moto, gravitazione universale, meccanica dei fluidi e termodinamica.*
 * 🔸 [**Quarto Anno**](fisica/superiori/quarto-anno/)  
   *Fenomeni ondulatori, acustica, ottica geometrica/ondulatoria ed elettrostatica.*
 * 🔸 [**Quinto Anno**](fisica/superiori/quinto-anno/)  
