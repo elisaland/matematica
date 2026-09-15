@@ -50,14 +50,14 @@ Equazione in forma esplicita e implicita, coefficiente angolare, condizioni di p
 ### 📄 Formulario: I Principi della Dinamica e le Forze
 I tre principi di Newton (inerzia, proporzionalità, azione e reazione), sistemi di riferimento inerziali, diagramma di corpo libero, forze ordinarie (forza peso, reazione vincolare, tensione dei fili, forza elastica e attrito radente) e applicazioni al moto sul piano inclinato.
 
-<a href="formulario-principi-dinamica.pdf" style="background-color: #159957; color: white; padding: 10px 18px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block; margin-top: 8px;">📥 Scarica il Formulario Principi Dinamica (PDF)</a>
+<a href="./formulario-principi-dinamica.pdf?raw=true" style="background-color: #159957; color: white; padding: 10px 18px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block; margin-top: 8px;">📥 Scarica il Formulario Principi Dinamica (PDF)</a>
 
 ---
 
 ### 📄 Formulario: Lavoro ed Energia
 Definizione geometrica e operativa di lavoro ($L$), teorema dell'energia cinetica ($K$), forze conservative e dissipative, energia potenziale gravitazionale ed elastica ($U_g, U_{el}$), conservazione dell'energia meccanica ($E_M$), potenza e rendimento. Include appendice con dimostrazioni formali.
 
-<a href="formulario-lavoro-energia.pdf" style="background-color: #159957; color: white; padding: 10px 18px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block; margin-top: 8px;">📥 Scarica il Formulario Lavoro ed Energia (PDF)</a>
+<a href="./formulario-lavoro-energia.pdf?raw=true" style="background-color: #159957; color: white; padding: 10px 18px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block; margin-top: 8px;">📥 Scarica il Formulario Lavoro ed Energia (PDF)</a>
 
 ---
 
