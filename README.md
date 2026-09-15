@@ -10,7 +10,7 @@ In questo spazio troverai formulari riassuntivi, guide teorico-metodologiche, sc
 * 🔹 [**Primo Anno**](matematica/superiori/primo-anno/)  
   *Insiemi, calcolo letterale, equazioni lineari, frazioni algebriche e geometria euclidea nel piano.*
 * 🔹 [**Secondo Anno**](matematica/superiori/secondo-anno/)  
-  *Disequazioni lineari, sistemi, radicali, equazioni/disequazioni di 2° grado, piano cartesiano.*
+  *Disequazioni lineari, sistemi, radicali, equazioni/disequazioni di 2° grado, retta e parabola nel piano cartesiano.*
 * 🔹 [**Terzo Anno**](matematica/superiori/terzo-anno/)  
   *Equazioni e disequazioni irrazionali, valore assoluto, coniche (circonferenza, parabola, ellisse, iperbole).*
 * 🔹 [**Quarto Anno**](matematica/superiori/quarto-anno/)  
