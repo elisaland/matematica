@@ -54,4 +54,11 @@ I tre principi di Newton (inerzia, proporzionalità, azione e reazione), sistemi
 
 ---
 
+### 📄 Formulario: Lavoro ed Energia
+Definizione geometrica e operativa di lavoro ($L$), teorema dell'energia cinetica ($K$), forze conservative e dissipative, energia potenziale gravitazionale ed elastica ($U_g, U_{el}$), conservazione dell'energia meccanica ($E_M$), potenza e rendimento. Include appendice con dimostrazioni formali.
+
+<a href="formulario-lavoro-energia.pdf" style="background-color: #159957; color: white; padding: 10px 18px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block; margin-top: 8px;">📥 Scarica il Formulario Lavoro ed Energia (PDF)</a>
+
+---
+
 [⬅️ Torna alla sezione Superiori](../) | [🏠 Torna alla Home](../../)
