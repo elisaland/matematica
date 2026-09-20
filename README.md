@@ -7,28 +7,18 @@ In questo spazio troverai formulari riassuntivi, guide teorico-metodologiche, sc
 ## 🏫 Scuole Superiori
 
 ### 📐 Matematica
-* 🔹 [**Primo Anno**](matematica/superiori/primo-anno/)  
-  *Insiemi, calcolo letterale, equazioni lineari, frazioni algebriche e geometria euclidea nel piano.*
-* 🔹 [**Secondo Anno**](matematica/superiori/secondo-anno/)  
-  *Disequazioni lineari, sistemi, radicali, equazioni/disequazioni di 2° grado, retta e parabola nel piano cartesiano.*
-* 🔹 [**Terzo Anno**](matematica/superiori/terzo-anno/)  
-  *Equazioni e disequazioni irrazionali, valore assoluto, coniche (circonferenza, parabola, ellisse, iperbole).*
-* 🔹 [**Quarto Anno**](matematica/superiori/quarto-anno/)  
-  *Goniometria, trigonometria, esponenziali e logaritmi, calcolo combinatorio, probabilità e geometria solida.*
-* 🔹 [**Quinto Anno**](matematica/superiori/quinto-anno/)  
-  *Limiti, continuità, calcolo differenziale, studio completo di funzione e integrali.*
+* 🔹 [**Primo Anno**](superiori/primo-anno/) — *Insiemi, calcolo letterale, equazioni lineari, frazioni algebriche e geometria euclidea.*
+* 🔹 [**Secondo Anno**](superiori/secondo-anno/) — *Disequazioni lineari, sistemi, radicali, equazioni/disequazioni di 2° grado, retta e parabola.*
+* 🔹 [**Terzo Anno**](superiori/terzo-anno/) — *Equazioni e disequazioni irrazionali, valore assoluto, coniche.*
+* 🔹 [**Quarto Anno**](superiori/quarto-anno/) — *Goniometria, trigonometria, esponenziali e logaritmi, calcolo combinatorio, probabilità.*
+* 🔹 [**Quinto Anno**](superiori/quinto-anno/) — *Limiti, continuità, calcolo differenziale, studio completo di funzione e integrali.*
 
 ### ⚡ Fisica
-* 🔸 [**Primo Anno**](fisica/superiori/primo-anno/)  
-  *Grandezze fisiche, incertezze di misura, calcolo vettoriale, statica ed equilibrio dei corpi solidi.*
-* 🔸 [**Secondo Anno**](fisica/superiori/secondo-anno/)  
-  *Cinematica unidimensionale, principi della dinamica, forze d'attrito, lavoro, potenza, energia e conservazione.*
-* 🔸 [**Terzo Anno**](fisica/superiori/terzo-anno/)  
-  *Cinrmatica bidimensionale, quantità di moto, gravitazione universale, meccanica dei fluidi e termodinamica.*
-* 🔸 [**Quarto Anno**](fisica/superiori/quarto-anno/)  
-  *Fenomeni ondulatori, acustica, ottica geometrica/ondulatoria ed elettrostatica.*
-* 🔸 [**Quinto Anno**](fisica/superiori/quinto-anno/)  
-  *Corrente elettrica e circuiti, campi magnetici, induzione elettromagnetica, equazioni di Maxwell e cenni di relatività.*
+* 🔸 [**Primo Anno**](superiori/primo-anno/) — *Grandezze fisiche, incertezze di misura, calcolo vettoriale, statica ed equilibrio.*
+* 🔸 [**Secondo Anno**](superiori/secondo-anno/) — *Cinematica unidimensionale, principi della dinamica, forze d'attrito, lavoro ed energia.*
+* 🔸 [**Terzo Anno**](superiori/terzo-anno/) — *Cinematica bidimensionale, quantità di moto, gravitazione universale, fluidi e termodinamica.*
+* 🔸 [**Quarto Anno**](superiori/quarto-anno/) — *Onde, acustica, ottica geometrica ed elettrostatica.*
+* 🔸 [**Quinto Anno**](superiori/quinto-anno/) — *Circuiti elettrici, induzione elettromagnetica, equazioni di Maxwell e relatività.*
 
 ---
 
